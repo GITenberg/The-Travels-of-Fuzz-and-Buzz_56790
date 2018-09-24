@@ -1,0 +1,25 @@
+_repo: The-Travels-of-Fuzz-and-Buzz_56790
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Pearse, S.B.
+    gutenberg_agent_id: '49038'
+    url: http://www.gutenberg.org/2009/agents/49038
+creator:
+  author:
+    agent_name: Mockler, Geraldine
+    gutenberg_agent_id: '8292'
+    url: http://www.gutenberg.org/2009/agents/8292
+description: ''
+gutenberg_issued: '2018-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Travels of Fuzz and Buzz
+url: http://www.gutenberg.org/ebooks/56790
