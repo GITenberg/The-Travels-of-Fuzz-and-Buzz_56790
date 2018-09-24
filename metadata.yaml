@@ -1,16 +1,21 @@
 _repo: The-Travels-of-Fuzz-and-Buzz_56790
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Pearse, S.B.
     gutenberg_agent_id: '49038'
     url: http://www.gutenberg.org/2009/agents/49038
+covers:
+- cover_type: archival
+  image_path: 56790-h/images/01_cover.jpg
 creator:
   author:
     agent_name: Mockler, Geraldine
     gutenberg_agent_id: '8292'
     url: http://www.gutenberg.org/2009/agents/8292
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56790#The-Travels-of-Fuzz-and-Buzz
 gutenberg_issued: '2018-03-19'
 gutenberg_type: Text
 identifiers:
